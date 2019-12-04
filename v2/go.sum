@@ -6,5 +6,3 @@ github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/trevorsibanda/faunadb-go v2.0.0+incompatible h1:tDv87Drg+PDjuoACh/UjGRwJ/KHd+iij9GfJzsMvPXc=
 github.com/trevorsibanda/faunadb-go v2.0.0+incompatible/go.mod h1:33F6eyaOQgdx7MZB67l/7FoleeJhEgTc5BVJMGR9qkQ=
-github.com/trevorsibanda/faunadb-go/v2 v2.10.2 h1:usY8vgaLztrHBVrNdmeTSMrilFHaDXQbGyRUs+q3Z+0=
-github.com/trevorsibanda/faunadb-go/v2 v2.10.2/go.mod h1:lm69K24W1X5TEnUD3UZ5oePTqq7a4husc2G/bLe3Db8=

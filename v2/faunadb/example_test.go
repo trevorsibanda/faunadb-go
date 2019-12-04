@@ -1,6 +1,7 @@
 package faunadb_test
 
-import f "github.com/trevorsibanda/faunadb-go/faunadb"
+
+import f "github.com/trevorsibanda/faunadb-go/v2/faunadb"
 
 var (
 	data = f.ObjKey("data")

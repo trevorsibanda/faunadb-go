@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/suite"
-	f "github.com/trevorsibanda/faunadb-go/faunadb"
+	f "github.com/trevorsibanda/faunadb-go/v2/faunadb"
 )
 
 func TestRunClientTests(t *testing.T) {
