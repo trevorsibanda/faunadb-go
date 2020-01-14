@@ -1,4 +1,4 @@
-module github.com/trevorsibanda/faunadb-go
+module github.com/trevorsibanda/faunadb-go/v2
 
 go 1.13
 
